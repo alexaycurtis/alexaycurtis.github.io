@@ -1,9 +1,9 @@
 {
-  "name": "reactivefolio",
+  "name": "alexaycurtis.github.io",
   "homepage": "https://alexaycurtis.github.io/",
   "version": "0.0.0",
   "type": "module",
-  "description": "Alexa Curtis. Personal Portfolio Website",
+  "description": "React TypeScript on Github",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

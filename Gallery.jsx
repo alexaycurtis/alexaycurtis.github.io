@@ -14,12 +14,12 @@ export default function Gallery(){
       description: "A sleek, responsive portfolio showcasing creative work with smooth animations.",
       thumbnail: "portfolio",
       images:[
-        {id: 1, src: "/Project Pictures/portfolio1.png", alt: "Portfolio Home Page"},
-        {id: 2, src: "/Project Pictures/portfolio2.png", alt: "Portfolio About Page"},
-        {id: 3, src: "/Project Pictures/portfolio3.png", alt: "Portfolio Projects Page"},
-        {id: 4, src: "/Project Pictures/portfolio5.png", alt: "Portfolio Contact Page"},
-        {id: 5, src: "/Project Pictures/portfolio6.png", alt: "Portfolio Contact Page"},
-         {id: 6, src: "/Project Pictures/portfolio7.png", alt: "Portfolio Contact Page"}
+        {id: 1, src: "/reactivefolio/Project Pictures/portfolio1.png", alt: "Portfolio Home Page"},
+        {id: 2, src: "/reactivefolio/Project Pictures/portfolio2.png", alt: "Portfolio About Page"},
+        {id: 3, src: "/reactivefolio/Project Pictures/portfolio3.png", alt: "Portfolio Projects Page"},
+        {id: 4, src: "/reactivefolio/Project Pictures/portfolio5.png", alt: "Portfolio Contact Page"},
+        {id: 5, src: "/reactivefolio/Project Pictures/portfolio6.png", alt: "Portfolio Contact Page"},
+         {id: 6, src: "/reactivefolio/Project Pictures/portfolio7.png", alt: "Portfolio Contact Page"}
       ]                            
     },  
     {         
@@ -29,9 +29,9 @@ export default function Gallery(){
       description: "Interactive learning platform with course management and student tracking.",
       thumbnail: "",
       images:[
-        {id: 1, src: "/Project Pictures/edutitle.png", alt: "Educational Platform Home"},
-        {id: 2, src: "/Project Pictures/edugame3.png", alt: "Interactive Learning Game"},
-        {id: 3, src: "/Project Pictures/edugame4.png", alt: "Course Progress Tracker"}
+        {id: 1, src: "/reactivefolio/Project Pictures/edutitle.png", alt: "Educational Platform Home"},
+        {id: 2, src: "/reactivefolio/Project Pictures/edugame3.png", alt: "Interactive Learning Game"},
+        {id: 3, src: "/reactivefolio/Project Pictures/edugame4.png", alt: "Course Progress Tracker"}
       ]
     },
     {
@@ -41,8 +41,8 @@ export default function Gallery(){
       description: "Created recycling tracker for student volunteers. Easy to use progress dashboard that lets users customize their experience.",
       thumbnail: "data",
       images:[
-        {id: 1, src: "/Project Pictures/tracker1.png", alt: "Tracker Dashboard"},
-        {id: 2, src: "/Project Pictures/tracker2.png", alt: "Progress Analytics"}
+        {id: 1, src: "/reactivefolio/Project Pictures/tracker1.png", alt: "Tracker Dashboard"},
+        {id: 2, src: "/reactivefolio/Project Pictures/tracker2.png", alt: "Progress Analytics"}
       ]
     },
     {
@@ -52,10 +52,10 @@ export default function Gallery(){
       description: "Fun, interactive browser games that combine strategy and stunning visuals",
       thumbnail: "games",
       images: [
-        {id: 1, src: "/Project Pictures/site1.png"},
-        {id: 2, src: "/Project Pictures/site2.png"},
-        {id: 3, src: "/Project Pictures/site3.png"},
-        {id: 4, src: "/Project Pictures/site4.png"}
+        {id: 1, src: "/reactivefolio/Project Pictures/site1.png"},
+        {id: 2, src: "/reactivefolio/Project Pictures/site2.png"},
+        {id: 3, src: "/reactivefolio/Project Pictures/site3.png"},
+        {id: 4, src: "/reactivefolio/Project Pictures/site4.png"}
       ]
     },
     {
@@ -65,10 +65,10 @@ export default function Gallery(){
       description: "Beautiful posters and illustrations created digitally.",
       thumbnail: "agency",
       images: [
-        {id: 1, src:"/posters/poster2.png"},
-        {id: 2, src:"/posters/poster3.png"},
-        {id: 3, src:"/posters/poster1.png"},
-        {id: 4, src:"/posters/poster4.png"}
+        {id: 1, src:"/reactivefolio/posters/poster2.png"},
+        {id: 2, src:"/reactivefolio/posters/poster3.png"},
+        {id: 3, src:"/reactivefolio/posters/poster1.png"},
+        {id: 4, src:"/reactivefolio/posters/poster4.png"}
       ]
     }
   ]
@@ -99,7 +99,7 @@ export default function Gallery(){
         <div className="nav-left">
           <button 
             className="back-btn"
-            onClick={()=> window.location.href = '/'}
+            onClick={()=> window.location.href = '/reactivefolio/'}
           >
             ← Back to Home
           </button>
