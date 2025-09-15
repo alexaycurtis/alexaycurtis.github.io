@@ -434,7 +434,7 @@ export default function App() {
             <div className="about-me-images">
               <div className="about-image main-image">
                 <img
-                  src="/designer.jpg"
+                  src="/designer.png"
                   alt="Photo of cat, in place of the developer"
                   style={{
                     width: "100%",
