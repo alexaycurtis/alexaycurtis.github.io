@@ -2,7 +2,6 @@
 most copied from main*/
 .gallery-page {
   min-height: 100vh;
-  background-image: url('/background2.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
