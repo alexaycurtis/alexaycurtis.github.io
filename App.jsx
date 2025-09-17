@@ -122,7 +122,7 @@ export default function App() {
             <h1 className="hero-title">
               Graphic Designer & Web Developer{" "}
               <span className="highlight">
-                <br></br>Alexa
+                <br></br>Alexa Curtis
               </span>{" "}
               ✨
             </h1>
@@ -133,7 +133,7 @@ export default function App() {
             <div className="connect-section">
               <p className="connect-text">
                 Contact Me Here:{" "}
-                <span className="highlight"> example@gmail.com </span>
+                <span className="highlight"> aycfyi@gmail.com </span>
               </p>
             </div>
           </div>
@@ -519,7 +519,7 @@ export default function App() {
               <div className="contact-details">
                 <div className="contact-item">
                   <span className="contact-icon">✉️</span>
-                  <span>example@gmail.com</span>
+                  <span>aycfyi@gmail.com</span>
                 </div>
                 <div className="contact-item">
                   <span className="contact-icon">📍</span>
@@ -534,7 +534,7 @@ export default function App() {
         <footer className="footer">
           <div className="footer-content">
             <div className="footer-left">
-              <div className="logo-text">Alexa</div>
+              <div className="logo-text">Alexa Curtis</div>
               <p>Building websites, designing flyers since 2024. Coding in five different languages. Stay tuned for more in the future.</p>
             </div>
             <div className="footer-links">
@@ -544,7 +544,7 @@ export default function App() {
               <a href="#contact">Contact</a>
             </div>
             <div className="footer-bottom">
-              <p>&copy; 2025 Alexa. All rights reserved.</p>
+              <p>&copy; 2025 Alexa Curtis. All rights reserved.</p>
             </div>
           </div>
         </footer>
