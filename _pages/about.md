@@ -12,15 +12,23 @@ Hello! My name is Alexa, and I'm a freshman in college. If you are looking for m
 To summarize, my academic interests include computer science, linguistics, economics, and UI design. I specialize in the intersection between computer science and linguistics, specifically in language models and natural language processing. I can code in R, Python, C++, Java, HTML/CSS, and am currently learning JavaScript. I intend to double major in either linguistics/computer science and economics, with a potential minor undecided. My hobbies include digital art, sketching, playing violin and viola, running, skiing, baking, volunteering, environmental science, Greco-Roman Civilization, and writing fiction.  
 
 Art and Design Website
-======
+------
 I have 5 years of experience with graphic design on Canva and Adobe InDesign. I additionally have experience with digital art software Procreate and Blender. My work is featured on Pixabay, a stock media website with 5B+ downloads. In addition, I have been the lead designer for an award-winning student creative magazine. 
 
 For those interested in exploring my artistic work, I have created a separate website for my portfolio, which can be found at (insert link soon). 
 
 Past Projects
-======
+------
 I have several large-scale projects and extracurricular activities that I have undertaken in the past. The following is a brief summary of these projects. 
-1. 
+1. *Exploring the Relationship Between Demographics and Air Quality by Zipcode in Houston*
+Conducted environmental research with mentors from my local high school and the University of Houston. 
+2. *Semantic Drift Within the Latin Language from the 1st through 6th Centuries CE*
+Undertook independent research with Latin-focused language models and statistical analysis. 
+3. *She Wires Words: Empowering Girls in Tech*
+Founded a fiscally-sponsored organization with 501(c)(3) nonprofit status aiming to provide resources about technology to unrrepresented groups in the tech workforce. 
+4. *Freelance Web Design*
+Built and designed websites for individuals and companies. 
+
 
 Site-wide configuration
 ------
