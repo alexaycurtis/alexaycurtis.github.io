@@ -4,3 +4,8 @@
 ## About Me
 More information can be found on the site.
 
+###How to Edit
+- Most things are in _pages
+- Site basics are in configuration.yml
+- Top nav bar is in _data -> navigation.yml
+
