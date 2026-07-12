@@ -13,7 +13,7 @@ Academic Interests
 ------
 My academic interests include computer science, linguistics, economics, and digital design. I specialize in the intersection between computer science and linguistics, specifically in language models and natural language processing. I code in R, Python, Java, HTML/CSS, and am currently learning JavaScript. I intend to double major in computational linguistics and economics, with a potential minor undecided. My hobbies include film editing, digital art, sketching, playing viola, running, skiing, baking, volunteering, learning about environmental science, and writing fiction.
 
-Specific topics I intend to pursue include but are not limited to: Data Analysis (**Python** **R** **Excel**), Technical Design (<kbd>Autocad</kbd>), Geospatial Analysis (**ArcGIS**), User-Experience Wireframing (**UX**)
+Specific topics I intend to pursue include but are not limited to: Data Analysis (<kbd>Python</kbd> <kbd>R</kbd> <kbd>Excel</kbd>), Technical Design (<kbd>Autocad</kbd>), Geospatial Analysis (<kbd>ArcGIS</kbd>), User-Experience Wireframing (<kbd>UX</kbd>)
 
 Past Projects
 ------
@@ -31,11 +31,7 @@ For those interested in exploring my artistic work, I have created a separate po
 
 Skills
 ------
-<kbd>Python<kbd> <kbd>Java<kbd> <kbd>HTML<kbd> <kbd>Excel<kbd> <kbd>UI/UX<kbd> 
-
-#####Currently Learning
-------
-<kbd>Figma<kbd> <kbd>React Typescript<kbd> <kbd>GIS<kbd> <kbd>SQL<kbd>
+<kbd>Python</kbd> <kbd>Java</kbd> <kbd>HTML</kbd> <kbd>Excel</kbd> <kbd>UI/UX</kbd>
   
 Blogs & Additional Info
 ------
