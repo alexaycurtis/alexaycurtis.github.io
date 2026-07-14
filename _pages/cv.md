@@ -12,11 +12,11 @@ redirect_from:
 
 | Alexa Curtis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |  |  |
 | ----- | ----: | ----: | ----: |
-| **EDUCATION** | **TESTING** |  |  |
-| **ST. JOHN’S SCHOOL (CEEB: 443425\)** Houston, TX *(enrolled 2022-2026)* **GPA: 97.2/100 Weighted** Graduated: May 2026 | **ACT** (09/14/2024) Composite: **35** English: **36**, Math: **35**, Reading: **36**, Science: **34 AP Exam Scores:**  AP Biology **5**, AP Latin Language **5**, AP US History **5**, AP Calculus BC **5**, AP English Language and Composition **5**, AP Computer Science A **4** |  |  |
+| **EDUCATION** | **TESTING** |  |  
+| **ST. JOHN’S SCHOOL** Houston, TX *(enrolled 2022-2026)* **GPA: 97.1/100 Weighted** | **ACT** (09/14/2024) Composite: **35** English: **36**, Math: **35**, Reading: **36**, Science: **34 AP Exam Scores:**  AP Biology **5**, AP Latin Language **5**, AP US History **5**, AP Calculus BC **5**, AP English Language and Composition **5**, AP Computer Science A **4** |  |  
 
-| **EXTRACURRICULAR ACTIVITIES AND LEADERSHIP** |  |  |  |
-| **Founder \- [shewireswords.org](http://shewireswords.org), Nonprofit Organization Empowering Girls in Tech** Founded She Wires Words, a 501(c)(3) nonprofit organization advocating for female students in technology. Offers virtual tutoring, online webinars, beginner engineering project guides, computer science resources, and a global newsletter to share the voices of girls in technology. Granting 4,000+ members access to online resources Oversaw 300+ volunteer hours as leader and recruiter of 11-person executive team. |  |  | <code>2025-Present</code>|
+| **EXTRACURRICULAR ACTIVITIES AND LEADERSHIP** |  | 
+| **Founder \- [shewireswords.org](http://shewireswords.github.io), Nonprofit Organization Empowering Girls in Tech** Founded She Wires Words, a 501(c)(3) nonprofit organization advocating for female students in technology. Offers virtual tutoring, online webinars, beginner engineering project guides, computer science resources, and a global newsletter to share the voices of girls in technology. Granting 4,000+ members access to online resources Oversaw 300+ volunteer hours as leader and recruiter of 11-person executive team. |   <code>2025-Present</code>|
 
 | **Researcher and Developer \- Python-based Air Pollution Mapping Tool** Built an interactive, live-updating data visualization tool of five air pollutants that forecasted air quality data anywhere worldwide. Used research to advocate against environmental injustice in my community. Educated community on environmental injustice. Presented findings to a committee of faculty evaluators and local environmental forums. Extended the research from the school year into the summer of 2025 to predict future air pollution trends for any global location. |  |  | <code>2024-2025</code> |
 
